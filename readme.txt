@@ -4,10 +4,3 @@ Git has a mutable index called stage.
 Git tracks changes.
 111
 Creating a new branch is quick and simple.
-2
-<<<<<<< Updated upstream
-a
-=======
-1
-
->>>>>>> Stashed changes
